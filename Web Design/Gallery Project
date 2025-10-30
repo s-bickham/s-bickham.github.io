@@ -1,7 +1,12 @@
 <!DOCTYPE html>
  <html lang="en">
-  <head>
     <title>Coyote Gallery</title>
-   <img src="" alt="Photo of Coyote looking at camrea" width="200px" height="200px"/>
- </head>
+     <head>Coyote Gallery</head>
+      <h1>Photo 1</h1>
+      <img src="https://api.openverse.org/v1/images/9df3fd74-0a81-4b42-b88f-56da72812b40/thumb/" alt="Photo of Coyote looking at camrea" width="200px" height="200px"/>
+      <h1>Photo 2</h1>
+      <img src="https://api.openverse.org/v1/images/375cfb5a-3300-4501-a0b4-1e8c728d8c50/thumb/" alt="Photo of Coyote in shade" width="200px" height="200px"/>
+      <h1>Photo 3</h1>
+      <img src="https://api.openverse.org/v1/images/cce3a9e1-0a2d-4b28-885e-88c16dcac1c2/thumb/" alt="Photo of Coyote in snow" width="200px" height="200px"/>       
+       <a href="https://openverse.org/search?q=Coyote&license_type=commercial,modification&license=pdm">Source 1, Source 2, Source 3</a>
 </html>
