@@ -1,6 +1,7 @@
 <!DOCTYPE html>
  <html lang="en">
   <head>
-   <img src="https://via.placeholder.com/300" alt="Photo 1" />
-
-
+    <title>Coyote Gallery</title>
+   <img src="" alt="Photo of Coyote looking at camrea" width="200px" height="200px"/>
+ </head>
+</html>
