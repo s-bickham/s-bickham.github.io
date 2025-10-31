@@ -4,9 +4,14 @@
      <head>Coyote Gallery</head>
       <h1>Photo 1</h1>
       <img src="https://api.openverse.org/v1/images/9df3fd74-0a81-4b42-b88f-56da72812b40/thumb/" alt="Photo of Coyote looking at camrea" width="200px" height="200px"/>
+      <a href="https://openverse.org/image/9df3fd74-0a81-4b42-b88f-56da72812b40?q=Coyote&p=1">Source 1</a>
+      <p class="attribution">"<a rel="noopener noreferrer" href="https://www.flickr.com/photos/115357548@N08/15527431969">Coyote (Canis latrans)</a>" by <a rel="noopener noreferrer" href="https://www.flickr.com/photos/115357548@N08">Joshua Tree National Park</a> is marked with <a rel="noopener noreferrer" href="https://creativecommons.org/publicdomain/mark/1.0/?ref=openverse">Public Domain Mark 1.0 <img src="https://mirrors.creativecommons.org/presskit/icons/pd.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
       <h1>Photo 2</h1>
-      <img src="https://api.openverse.org/v1/images/375cfb5a-3300-4501-a0b4-1e8c728d8c50/thumb/" alt="Photo of Coyote in shade" width="200px" height="200px"/>
+      <img src="https://live.staticflickr.com/1/145432_4c818df8e6.jpg" alt="Photo of Coyote on the side of the road" width="200px" height="200px"/>
+      <a href="https://openverse.org/image/cce3a9e1-0a2d-4b28-885e-88c16dcac1c2?q=Coyote&p=10">Source 2</a>
+        <p class="attribution">"<a rel="noopener noreferrer" href="https://www.flickr.com/photos/35237093637@N01/145432">coyote</a>" by <a rel="noopener noreferrer" href="https://www.flickr.com/photos/35237093637@N01">emdot</a> is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">CC BY 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
       <h1>Photo 3</h1>
       <img src="https://api.openverse.org/v1/images/cce3a9e1-0a2d-4b28-885e-88c16dcac1c2/thumb/" alt="Photo of Coyote in snow" width="200px" height="200px"/>       
-       <a href="https://openverse.org/search?q=Coyote&license_type=commercial,modification&license=pdm">Source 1, Source 2, Source 3</a>
+       <a href="https://openverse.org/search?q=Coyote&license_type=commercial,modification&license=pdm">Source 3</a>
+       "Coyote along the Firehole River" by YellowstoneNPS is marked with Public Domain Mark 1.0.
 </html>
