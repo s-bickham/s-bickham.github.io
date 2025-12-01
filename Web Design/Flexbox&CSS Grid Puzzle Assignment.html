@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Flex Puzzle Assignment</title>
+
+<style>
+
+body {
+margin: 0;
+background: #f2f2f2;
+display: grid;
+grid-template-rows: auto auto auto;
+gap: 20px;
+padding: 20px;
+}
+
+section {
+background: white;
+padding: 20px;
+border-radius: 8px;
+box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.puzzle-container {
+display: flex;
+flex-wrap: wrap;
+width: 600px; 
+gap: 0; 
+}
+
+.piece {
+width: 150px; 
+height: 150px;
+object-fit: cover;
+}
+
+
+.hide-piece {
+display: none;
+}
+</style>
+</head>
+<body>
+
+
+<section>
+<h2>Flexbox/CSS Grid Puzzle Assignment</h2>
+<p>Puzzle Selected: Snowmen</p>
+</section>
+
+
+<section>
+<h2>Snowmen Puzzle</h2>
+
+<div class="puzzle-container">
+
+
+<img src="puzzle2_K.jpg" class="piece" alt="Puzzle Piece1">
+<img src="puzzle2_M.jpg" class="piece" alt="Puzzle Piece2">
+<img src="puzzle2_E.jpg" class="piece" alt="Puzzle Piece3">
+<img src="puzzle2_G.jpg" class="piece" alt="Puzzle Piece4">
+<img src="puzzle2_A.jpg" class="piece" alt="Puzzle Piece5">
+<img src="puzzle2_D.jpg" class="piece" alt="Puzzle Piece6">
+<img src="puzzle2_L.jpg" class="piece" alt="Puzzle Piece7">
+<img src="puzzle2_B.jpg" class="piece" alt="Puzzle Piece8">
+<img src="puzzle2_F.jpg" class="piece" alt="Puzzle Piece9">
+<img src="puzzle2_J.jpg" class="piece" alt="Puzzle Piece10">
+<img src="puzzle2_H.jpg" class="piece" alt="Puzzle Piece11">
+<img src="puzzle2_I.jpg" class="piece" alt="Puzzle Piece12">
+
+
+<img src="puzzle2_C.jpg"
+class="piece hide-piece"
+alt="Incorrect Puzzle Piece">
+</div>
+</section>
+
+
+<section>
+<h2>Assignment Date</h2>
+<p>November 30, 2025</p>
+</section>
+
+</body>
+</html>
